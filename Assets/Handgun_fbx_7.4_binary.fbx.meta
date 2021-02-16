@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5427a6e3009de8e48a1e86cb89f57ceb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bullet
+    100002: bullet shooter
+    100004: bullet_light
+    100006: Cube.002
+    100008: Cube.005
+    100010: Gun
+    100012: Gun_trigger
+    100014: //RootNode
+    100016: Hemi
+    100018: Hemi.001
+    100020: hulle
+    100022: muni_rot
+    100024: muzzle fire
+    100026: Point
+    100028: Point.001
+    400000: bullet
+    400002: bullet shooter
+    400004: bullet_light
+    400006: Cube.002
+    400008: Cube.005
+    400010: Gun
+    400012: Gun_trigger
+    400014: //RootNode
+    400016: Hemi
+    400018: Hemi.001
+    400020: hulle
+    400022: muni_rot
+    400024: muzzle fire
+    400026: Point
+    400028: Point.001
+    2100000: Material.001
+    2100002: handgun
+    2100004: Material.004
+    2100006: Fire.001
+    2300000: bullet
+    2300002: Cube.002
+    2300004: Cube.005
+    2300006: Gun
+    2300008: Gun_trigger
+    2300010: hulle
+    2300012: muzzle fire
+    3300000: bullet
+    3300002: Cube.002
+    3300004: Cube.005
+    3300006: Gun
+    3300008: Gun_trigger
+    3300010: hulle
+    3300012: muzzle fire
+    4300000: bullet
+    4300002: Cube.002
+    4300004: hulle
+    4300006: Gun
+    4300008: Cube.005
+    4300010: muzzle fire
+    4300012: Gun_trigger
+    7400000: Cube.002|Cube.001Action
+    7400002: Cube.002|Cube.002Action
+    7400004: Cube.002|Cube.004Action
+    7400006: Cube.002|Gun_trigger
+    7400008: Cube.002|muni_rot
+    7400010: Cube.002|muzzle fire
+    7400012: Cube.002|pistol slide
+    7400014: Gun|Cube.001Action
+    7400016: Gun|Cube.002Action
+    7400018: Gun|Cube.004Action
+    7400020: Gun|Gun_trigger
+    7400022: Gun|muni_rot
+    7400024: Gun|muzzle fire
+    7400026: Gun|pistol slide
+    7400028: muni_rot|Cube.001Action
+    7400030: muni_rot|Cube.002Action
+    7400032: muni_rot|Cube.004Action
+    7400034: muni_rot|Gun_trigger
+    7400036: muni_rot|muni_rot
+    7400038: muni_rot|muzzle fire
+    7400040: muni_rot|pistol slide
+    7400042: Cube.005|Cube.001Action
+    7400044: Cube.005|Cube.002Action
+    7400046: Cube.005|Cube.004Action
+    7400048: Cube.005|Gun_trigger
+    7400050: Cube.005|muni_rot
+    7400052: Cube.005|muzzle fire
+    7400054: Cube.005|pistol slide
+    7400056: muzzle fire|Cube.001Action
+    7400058: muzzle fire|Cube.002Action
+    7400060: muzzle fire|Cube.004Action
+    7400062: muzzle fire|Gun_trigger
+    7400064: muzzle fire|muni_rot
+    7400066: muzzle fire|muzzle fire
+    7400068: muzzle fire|pistol slide
+    7400070: Gun_trigger|Cube.001Action
+    7400072: Gun_trigger|Cube.002Action
+    7400074: Gun_trigger|Cube.004Action
+    7400076: Gun_trigger|Gun_trigger
+    7400078: Gun_trigger|muni_rot
+    7400080: Gun_trigger|muzzle fire
+    7400082: Gun_trigger|pistol slide
+    9500000: //RootNode
+    10800000: bullet_light
+    10800002: Hemi
+    10800004: Hemi.001
+    10800006: Point
+    10800008: Point.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
